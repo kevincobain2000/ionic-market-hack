@@ -1,5 +1,3 @@
-How to get the source code for apps on the ionic-market that have android demo
-
 ###### Steps
 
 1. Go to https://market.ionic.io/themes
